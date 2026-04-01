@@ -20,12 +20,6 @@ Engineering project focused on secure data transmission, layered communication d
 
 > Repository currently private / in preparation for publication
 
-### Homelab / Home LAN Implementation
-Hands-on lab environment for practical work in networking, troubleshooting, systems administration, and infrastructure experimentation.
-
-- LAN setup and internal network troubleshooting
-- Practical testing with Linux-based environments
-- Documentation of configurations, connectivity, and system behavior
 
 ### Full-Stack / Portfolio Demos
 Small web and full-stack projects focused on clean structure, practical implementation, and user-facing functionality.
