@@ -24,7 +24,7 @@ Engineering project focused on secure data transmission, layered communication d
 ### Full-Stack / Portfolio Demos
 Small web and full-stack projects focused on clean structure, practical implementation, and user-facing functionality.
 
-- [fullstack-site-demo-nextjs](https://github.com/ebarrm-a11y/fullstack-site-demo-nextjs)
+- [nextjs-fullstack-contact-platform](https://github.com/ebarrm-a11y/fullstack-site-demo-nextjs)
 - [seamless-photo-portfolio](https://github.com/ebarrm-a11y/Seamless-Photo-Site-Next.js-Tailwind-)
 - [site-basic-demo](https://github.com/ebarrm-a11y/site-basic-demo)
 
