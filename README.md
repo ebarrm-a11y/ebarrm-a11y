@@ -1,8 +1,8 @@
 # Hi, I’m Emilio Barradas Martínez
 
-Software Developer focused on systems integration, APIs, automation, and backend-oriented problem solving. Background in IT support, Windows/Linux systems, and networking, with hands-on work in Python, Bash, Rust, and full-stack development.
+Software Developer focused on systems integration, APIs, automation, and backend-oriented problem solving.
 
-My background combines **IT Support, Windows Server, Linux, networking, and troubleshooting** with hands-on development using **Python, Bash, Rust, C/C++, PHP, and TypeScript-based full-stack projects**. I’m especially interested in building reliable solutions for **DevOps, Cloud, CI/CD, monitoring, and technical operations**.
+My background combines IT support, Windows/Linux systems, networking, and troubleshooting with hands-on development using Python, Bash, Rust, C/C++, PHP, and TypeScript-based full-stack projects. I’m especially interested in building reliable solutions for DevOps, Cloud, CI/CD, monitoring, and technical operations.
 
 - Focus: Software Development • Systems Integration • APIs • Automation • DevOps/Cloud
 - Stack: Python • Bash • Rust • C/C++ • PHP • Linux • Windows Server • TCP/IP • Git/GitHub • Azure fundamentals
