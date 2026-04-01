@@ -1,29 +1,49 @@
-# 👋 Hi, I’m Emilio BM
+# Hi, I’m Emilio Barradas Martínez
 
-I work at the intersection of **Systems/Networking** and **software**, with a security-first mindset.
-Hands-on experience in **IT Support**, **Windows Server**, and **Linux administration**, plus scripting with **Python/Bash** and systems programming in **Rust**.
+Software Developer focused on systems integration, APIs, automation, and backend-oriented problem solving. Background in IT support, Windows/Linux systems, and networking, with hands-on work in Python, Bash, Rust, and full-stack development.
 
-- 🎯 Focus: Network / Cloud / Cybersecurity (foundations)
-- 🧰 Stack: Windows Server • Linux • TCP/IP • Git/GitHub • Python • Bash • Rust • (Azure fundamentals) • PHP • C/C++
+My background combines **IT Support, Windows Server, Linux, networking, and troubleshooting** with hands-on development using **Python, Bash, Rust, C/C++, PHP, and TypeScript-based full-stack projects**. I’m especially interested in building reliable solutions for **DevOps, Cloud, CI/CD, monitoring, and technical operations**.
+
+- Focus: Software Development • Systems Integration • APIs • Automation • DevOps/Cloud
+- Stack: Python • Bash • Rust • C/C++ • PHP • Linux • Windows Server • TCP/IP • Git/GitHub • Azure fundamentals
+
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 Secure Transport Protocol (Hybrid Encryption) — Rust (2024–2025)
-Security-focused transport design using **hybrid encryption concepts** and integrity verification.
-- Repo: *COMING SOON*
-- Highlights: modular design, crypto + secure transport concepts
+### Secure Transport Protocol (Rust, Python, Linux)
+Engineering project focused on secure data transmission, layered communication design, integrity validation, and modular system architecture.
 
-### 🧪 Homelab / Home LAN Implementation (2020–Present)
-Practical LAN setup & troubleshooting (homelab notes, diagrams, configs).
+- Built components for sender, receiver, proxy, and monitoring workflows
+- Worked on protocol debugging, fragmentation, validation, and secure transport logic
+- Developed and tested the project in Linux environments as part of thesis-level engineering work
 
-### 🌐 Full-stack / Portfolio Demos (Next.js / TypeScript)
-Marketing sites + full-stack demos (SEO, structured pages, clean UI).
-- `fullstack-site-demo-nextjs` — https://github.com/ebarrm-a11y/fullstack-site-demo-nextjs
-- `seamless-photo-portfolio` — https://github.com/ebarrm-a11y/Seamless-Photo-Site-Next.js-Tailwind-
-- `site-basic-demo` — https://github.com/ebarrm-a11y/site-basic-demo
+> Repository currently private / in preparation for publication
 
-## 📌 Certifications
+### Homelab / Home LAN Implementation
+Hands-on lab environment for practical work in networking, troubleshooting, systems administration, and infrastructure experimentation.
+
+- LAN setup and internal network troubleshooting
+- Practical testing with Linux-based environments
+- Documentation of configurations, connectivity, and system behavior
+
+### Full-Stack / Portfolio Demos
+Small web and full-stack projects focused on clean structure, practical implementation, and user-facing functionality.
+
+- [fullstack-site-demo-nextjs](https://github.com/ebarrm-a11y/fullstack-site-demo-nextjs)
+- [seamless-photo-portfolio](https://github.com/ebarrm-a11y/Seamless-Photo-Site-Next.js-Tailwind-)
+- [site-basic-demo](https://github.com/ebarrm-a11y/site-basic-demo)
+
+---
+
+## Certifications
+
 - Cisco: Basic Networking Concepts (2025)
 - Cisco: Introduction to Cybersecurity (2025)
-- Python Basics (UNAM, 2023)
+- Python Basics — UNAM (2023)
+
+---
+
+## Interests
+
+Backend Development • Systems Integration • Automation • Cloud Support • Monitoring • Infrastructure Reliability
